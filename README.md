@@ -1,4 +1,4 @@
-### Hi there I'm Leigh and stoked you stopped by! 👋
+<h2  align="center">Hi-hello there! I'm Leigh and I'm **stoked** you stopped by! 👋</h2>
 <h2  align="center">Here's how you can get a hold of me:</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/lcpulzone/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
