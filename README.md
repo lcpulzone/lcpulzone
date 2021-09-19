@@ -6,6 +6,15 @@
   <a target="_blank"href="https://twitter.com/lcpulzone"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lcpulzone&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcpulzone&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
+
 <!--
 **lcpulzone/lcpulzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
