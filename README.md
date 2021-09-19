@@ -1,5 +1,5 @@
-<h2  align="center">Hi-hello there! I'm Leigh and I'm stoked you stopped by! 👋</h2>
-<h3  align="center">Here's how you can get a hold of me:</h3>
+<h1  align="center">Hi-hello there! I'm Leigh and I'm stoked you stopped by! 👋</h1>
+<h2  align="center">Here's how you can get a hold of me:</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/lcpulzone/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:lcpulzone@gmail.com?subject=Hi-Hello%20Leigh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
