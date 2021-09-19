@@ -1,6 +1,6 @@
+<div align="center">
 ### Hi there I'm Leigh and stoked you stopped by! 👋
 #### Here's how you can get a hold of me: 
-<div align="center">
 <a href=https://www.linkedin.com/in/lcpulzone/><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" /></a>
 </div>
 
